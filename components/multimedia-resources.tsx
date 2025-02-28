@@ -13,7 +13,7 @@ export default function MultimediaResources() {
     {
       title: "Cómo Actuar ante un Ataque DDoS",
       description: "Guía práctica para identificar y mitigar ataques de denegación de servicio distribuido.",
-      thumbnail: "https://i.ytimg.com/an_webp/_sVObRVfoms/mqdefault_6s.webp?du=3000&sqp=CI-Khb4G&rs=AOn4CLAkOFc8HjmURQHCPL-IvPbudO1nrQ",
+      thumbnail: "https://i.ytimg.com/an_webp/_sVObRVfoms/mqdefault_6s.webp?du=3000&sqp=CMash74G&rs=AOn4CLCY9d8xD6DbzuO45YMD5kLAKaOxMg",
       url: "https://www.youtube.com/watch?v=_sVObRVfoms&ab_channel=Cegamer",
       channel: "@Cegamer"
     },
@@ -27,7 +27,7 @@ export default function MultimediaResources() {
     {
       title: "Simulación de Ransomware en Infraestructuras Críticas",
       description: "Ejercicio práctico de simulación de ataque y respuesta a ransomware.",
-      thumbnail: "https://i.ytimg.com/an_webp/A62s4DN7kd8/mqdefault_6s.webp?du=3000&sqp=COPohL4G&rs=AOn4CLDtmz_JWks8viduq9JKBzxW_u4qKQ",
+      thumbnail: "https://i.ytimg.com/an_webp/A62s4DN7kd8/mqdefault_6s.webp?du=3000&sqp=CN-dh74G&rs=AOn4CLAXNKi52qZOdIx2Y1lQKM5vdaF2xQ",
       url: "https://youtu.be/A62s4DN7kd8?si=m2NUoZKTG7WNuI50",
       channel: "@CCNCERT-CCN"
     }
